@@ -1,0 +1,2 @@
+# Real-time Video Overlay Creator
+The Real-time Video Overlay Creator is a project that lets users to add dynamic overlays to any streaming video URL in real-time. Leveraging (Real-Time Communication) connections, this project enables seamless interaction with the video stream, allowing users to drag and drop overlays onto the video as it streams. this project provides an intuitive platform for overlay customization and real-time integration with streaming videos.
